@@ -5,7 +5,7 @@ body {
   }
   
   a {
-    color: #007bff;
+    color: #262a2d;
     transition: 0.5s;
   }
   
@@ -50,7 +50,7 @@ body {
   .back-to-top {
     position: fixed;
     display: none;
-    background: #007bff;
+    background: #262a2d;
     color: #fff;
     width: 44px;
     height: 44px;
@@ -96,7 +96,7 @@ body {
     top: calc(50% - 30px);
     left: calc(50% - 30px);
     border: 6px solid #f2f2f2;
-    border-top: 6px solid #007bff;
+    border-top: 6px solid #262a2d;
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -145,7 +145,7 @@ body {
   #header.header-pages {
     height: 60px;
     padding: 10px 0;
-    background-color: #16409e;
+    background-color: #212529;
   }
   
   #header .logo img {
@@ -262,8 +262,8 @@ body {
   }
   
   #intro .intro-info .btn-get-started {
-    background: #007bff;
-    border: 2px solid #007bff;
+    background: #262a2d;
+    border: 2px solid #262a2d;
     color: #fff;
   }
   
@@ -278,8 +278,8 @@ body {
   }
   
   #intro .intro-info .btn-services:hover {
-    background: #007bff;
-    border-color: #007bff;
+    background: #262a2d;
+    border-color: #262a2d;
     color: #fff;
   }
   
@@ -321,7 +321,7 @@ body {
   .main-nav a:hover,
   .main-nav .active > a,
   .main-nav li:hover > a {
-    color: #007bff;
+    color: #262a2d;
     text-decoration: none;
   }
   
@@ -329,7 +329,7 @@ body {
   #header.header-pages {
     height: 60px;
     padding: 10px 0;
-    background-color: #16409e;
+    background-color: #212529;
   }
   
   #header.header-scrolled .main-nav a,
@@ -382,12 +382,12 @@ body {
   .main-nav .drop-down ul a:hover,
   .main-nav .drop-down ul .active > a,
   .main-nav .drop-down ul li:hover > a {
-    color: #007bff;
+    color: #262a2d;
   }
   
   #header.header-scrolled .main-nav .drop-down ul,
   #header.header-pages .main-nav .drop-down ul { 
-    background: #16409e; 
+    background: #212529; 
     transition: ease all 0.3s;
   }
   #header.header-scrolled .main-nav .drop-down ul a,
@@ -634,7 +634,7 @@ body {
   --------------------------------------------------------------*/
   
   #footer {
-    background: #00428a;
+    background:  #495057;
     padding: 0 0 30px 0;
     color: #eee;
     font-size: 14px;
@@ -664,7 +664,7 @@ body {
 #footer .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #007bff;
+    background: #262a2d;
     color: #fff;
     line-height: 1;
     padding: 8px 0;

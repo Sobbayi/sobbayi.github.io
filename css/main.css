@@ -221,7 +221,7 @@ body {
     position: relative;
     background: url("../img/intro-bg2.png") center bottom no-repeat;
     background-size: cover;
-    padding: 200px 0 120px 0;
+    padding: 100px 0 0px 0;
   }
   
   #intro .intro-img {

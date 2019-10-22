@@ -219,7 +219,7 @@ body {
   #intro {
     width: 100%;
     position: relative;
-    background: url("../img/intro-bg2.png") center bottom no-repeat;
+    background: url("../img/intro-bg2-grey.png") center bottom no-repeat;
     background-size: cover;
     padding: 100px 0 0px 0;
   }
